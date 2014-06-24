@@ -1,0 +1,3 @@
+[submodule "Test1a"]
+	path = Test1a
+	url = git@github.com:gi-tux/Test1a.git
