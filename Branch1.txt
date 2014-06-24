@@ -11,3 +11,5 @@ Can I then make a commit from here to close an issue?
 Why, yes I can close an issue from here.  This has some potential for me now.
 
 This change is now only in Branch1.  It will be merged eventually into master.
+
+It was indeed merged properly and the branching is working as I would expect.
