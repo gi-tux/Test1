@@ -1,3 +1,7 @@
 This is a test.
 This is only a test.
+If this were more than a test,
+	you would have been told where to read in your area
+	for further information.
+This is only a test.
 

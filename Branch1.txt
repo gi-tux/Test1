@@ -2,4 +2,12 @@ This file only appears in Branch1, it does not appear in master at this time.
 The file stays in Branch1 until we merge it into the mater branch upon
 completion.
 
+This file has been merged into the master stream on 1/28/2014.
+
+I can edit the file right here on-line?
+Why, yes I can edit the files right here on-line.
+
+Can I then make a commit from here to close an issue?
+Why, yes I can close an issue from here.  This has some potential for me now.
+
 This change is now only in Branch1.  It will be merged eventually into master.

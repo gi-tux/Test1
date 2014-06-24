@@ -1,0 +1,5 @@
+This file only lives in Master at this time.
+
+This change is only in the master branch.  It should be pulled into the
+Branch1 branch in the merge process because I will merge master into Branch1
+and then merge that back into master as I can't easily screw up master then.
