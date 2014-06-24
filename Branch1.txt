@@ -1,3 +1,5 @@
 This file only appears in Branch1, it does not appear in master at this time.
 The file stays in Branch1 until we merge it into the mater branch upon
 completion.
+
+This change is now only in Branch1.  It will be merged eventually into master.
